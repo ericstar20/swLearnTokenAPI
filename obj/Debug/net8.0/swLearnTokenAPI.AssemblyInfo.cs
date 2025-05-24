@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("swLearnTokenAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+292f33b203954b1c087edcd84693b5d7cc33288c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfc490ef604ae677751f93d4a78c2ce2f63261c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("swLearnTokenAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("swLearnTokenAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
