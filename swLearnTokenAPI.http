@@ -1,0 +1,6 @@
+@swLearnTokenAPI_HostAddress = http://localhost:5135
+
+GET {{swLearnTokenAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
